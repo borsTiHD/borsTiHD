@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @borsTiHD and I'm a full-stack web developer from Germany, working as a software engineer at Deutsche Telekom.
+- 👋 Hi, I’m @borsTiHD and I'm a frontend web developer from Germany, working as a software engineer at Deutsche Telekom.
 - ❣️ I have the passion to make the web a beautiful place.
 - 🌱 I’m currently learning and mastering vue 3.
 - 📫 If you want to get in touch with me feel free to drop me a line via linkedin: https://www.linkedin.com/in/bastian-jakobs/
